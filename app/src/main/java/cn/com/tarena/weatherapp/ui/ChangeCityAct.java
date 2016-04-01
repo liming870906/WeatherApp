@@ -27,7 +27,7 @@ public class ChangeCityAct extends Activity {
     public BDLocationListener myListener = new MyLocationListener();
     private String mNowCity;
     private static final int STOP_LOCATION = 1;
-
+    //声明Handler对象
     private Handler handler = new Handler(){
         @Override
         public void handleMessage(Message msg) {
@@ -113,8 +113,7 @@ public class ChangeCityAct extends Activity {
 
         @Override
         public void onReceiveLocation(BDLocation location) {
-//            mLocationClient.stop();
-//            mLocationClient.unRegisterLocationListener(myListener);
+            //判断定位类型
             switch (location.getLocType()) {
                 case BDLocation.TypeGpsLocation: // GPS定位结果
                 case BDLocation.TypeNetWorkLocation: // 网络定位结果
