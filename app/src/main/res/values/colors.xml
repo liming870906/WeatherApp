@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigation_line_color">#b2b0b6</color>
+    <color name="navigation_text_color">#b5b2bc</color>
+    <color name="menu_text_color">#baacac</color>
+    <color name="menu_text_background">#ffffff</color>
+    <color name="menu_text_line_color">#dddddd</color>
+    <color name="fragment_lift_date">#fbfbf9</color>
+    <color name="fragment_city_item_bottom_background">#789abc</color>
+    <color name="fragment_city_item_background_no_press">#b0dedb</color>
+    <color name="fragment_city_item_background_press">#e6d875</color>
+    <color name="change_city_background">#f0f0f0</color>
+    <color name="change_city_title_background">#ff7f18</color>
+    <color name="change_city_seach_text_color">#515151</color>
+    <color name="change_city_location_background_color">#32b9aa</color>
+</resources>

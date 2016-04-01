@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="fragment_lift_drawables">
+        <item>@drawable/ic_todaycan_date</item>
+        <item>@drawable/ic_todaycan_jingdian</item>
+        <item>@drawable/ic_todaycan_dress</item>
+        <item>@drawable/ic_todaycan_carwash</item>
+        <item>@drawable/ic_todaycan_tour</item>
+        <item>@drawable/ic_todaycan_coldl</item>
+        <item>@drawable/ic_todaycan_sport</item>
+        <item>@drawable/ic_todaycan_ultravioletrays</item>
+    </integer-array>
+    <string-array name="fragment_lift_theme_texts">
+        <item>今天温度</item>
+        <item>今天天气</item>
+        <item>生活指数</item>
+        <item>洗车指数</item>
+        <item>旅游指数</item>
+        <item>感冒指数</item>
+        <item>运动指数</item>
+        <item>紫外线指数</item>
+    </string-array>
+    <string-array name="change_host_city">
+        <item>北京</item>
+        <item>上海</item>
+        <item>重庆</item>
+        <item>武汉</item>
+        <item>杭州</item>
+        <item>南京</item>
+        <item>西安</item>
+        <item>重庆</item>
+        <item>成都</item>
+        <item>深圳</item>
+        <item>广州</item>
+        <item>哈尔滨</item>
+    </string-array>
+</resources>
